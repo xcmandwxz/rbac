@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Tue Oct 01 10:08:54 CST 2019
+org.eclipse.jst.j2ee.server\:atxcm-portal=WEB-INF/lib/atxcm-portal-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:atxcm-manager=WEB-INF/lib/atxcm-manager-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\\u5357\u4EAC\\.m2\\repository\\org\\springframework\\spring-web\\4.0.0.RELEASE\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
+org.eclipse.jst.j2ee.server\:atxcm-common=WEB-INF/lib/atxcm-common-0.0.1-SNAPSHOT.jar
